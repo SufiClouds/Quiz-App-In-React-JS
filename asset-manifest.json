@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SufiClouds/Quiz-App-In-React-JS/static/css/main.28ed3563.css",
-    "main.js": "/SufiClouds/Quiz-App-In-React-JS/static/js/main.06d07048.js",
-    "static/js/453.e9a0592c.chunk.js": "/SufiClouds/Quiz-App-In-React-JS/static/js/453.e9a0592c.chunk.js",
-    "index.html": "/SufiClouds/Quiz-App-In-React-JS/index.html",
-    "main.28ed3563.css.map": "/SufiClouds/Quiz-App-In-React-JS/static/css/main.28ed3563.css.map",
-    "main.06d07048.js.map": "/SufiClouds/Quiz-App-In-React-JS/static/js/main.06d07048.js.map",
-    "453.e9a0592c.chunk.js.map": "/SufiClouds/Quiz-App-In-React-JS/static/js/453.e9a0592c.chunk.js.map"
+    "main.css": "/Quiz-App-In-React-JS/static/css/main.28ed3563.css",
+    "main.js": "/Quiz-App-In-React-JS/static/js/main.63a5e8f2.js",
+    "static/js/453.e9a0592c.chunk.js": "/Quiz-App-In-React-JS/static/js/453.e9a0592c.chunk.js",
+    "index.html": "/Quiz-App-In-React-JS/index.html",
+    "main.28ed3563.css.map": "/Quiz-App-In-React-JS/static/css/main.28ed3563.css.map",
+    "main.63a5e8f2.js.map": "/Quiz-App-In-React-JS/static/js/main.63a5e8f2.js.map",
+    "453.e9a0592c.chunk.js.map": "/Quiz-App-In-React-JS/static/js/453.e9a0592c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28ed3563.css",
-    "static/js/main.06d07048.js"
+    "static/js/main.63a5e8f2.js"
   ]
 }
